@@ -1,3 +1,4 @@
-# simplifyingstats.github
+simplifyingstats.github.io
+__________________________
 
 simplifying stats
