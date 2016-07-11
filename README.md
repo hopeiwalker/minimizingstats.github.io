@@ -1,3 +1,3 @@
-# simplifingstats.github
+# simplifyingstats.github
 
-stats
+simplifying stats
